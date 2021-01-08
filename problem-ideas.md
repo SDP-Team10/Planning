@@ -16,3 +16,4 @@
 
 * Struggle to wash themselves/reach certain areas (could be due to physical or mental disability or even just temporary pain)
 
+* Need help putting socks/shoes on (back problems so can't bend)
