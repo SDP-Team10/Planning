@@ -19,3 +19,7 @@
 * Need help putting socks/shoes on (back problems so can't bend)
 
 * People with impaired vision might need help in fetching small objects like keys, wallet/purse etc. 
+
+* People can struggle to pick things up off of the floor
+
+* Can be tricky for older people to manage to carry things eg cup of tea with them and open a door
