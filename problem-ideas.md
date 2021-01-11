@@ -31,3 +31,10 @@
 * Farming related robot
 
 * Animal assistive robot
+
+* Door opening 
+  * Detect the type of handle, twist vs lever vs button etc.
+
+* Robot which does dishes (Can analyse shape of object to clean optimally) or dries dishes 
+  * Could also detect which cleaning tool (sponge vs scourer vs cloth etc.) is best
+  * Could detect when cleaning tool is too dirty/misshapen and needs to be replaced.
