@@ -23,3 +23,11 @@
 * People can struggle to pick things up off of the floor
 
 * Can be tricky for older people to manage to carry things eg cup of tea with them and open a door
+
+* Helping doctors take measurements of patients without going near them. (For covid-19 for example)
+
+* Dog walking robot
+
+* Farming related robot
+
+* Animal assistive robot
