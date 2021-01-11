@@ -38,3 +38,17 @@
 * Robot which does dishes (Can analyse shape of object to clean optimally) or dries dishes 
   * Could also detect which cleaning tool (sponge vs scourer vs cloth etc.) is best
   * Could detect when cleaning tool is too dirty/misshapen and needs to be replaced.
+  
+* Medical robot
+  * Could move from bed to bed
+  * The robot could potentially be a trip hazard (would have to make an appropriate size)
+  * Sanitization issues, would have to self-sanitize
+  * Will we be able to have access to this medical equipment (oximiter etc...)
+  * Could measure Heart Rate and Temperature
+  
+* Fetching robot
+  * Map/ layout of house somehow encoded
+  * Place trackers on objects that are to be retrieved
+  * The robot will attempt to fetch objects
+  * If it's unable the app will be able to guide the user as close as possible
+  * Needs to use an arm to pick up items 
