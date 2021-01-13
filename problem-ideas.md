@@ -18,26 +18,14 @@
 
 * Need help putting socks/shoes on (back problems so can't bend)
 
-* People with impaired vision might need help in fetching small objects like keys, wallet/purse etc. 
-
-* People can struggle to pick things up off of the floor
-
 * Can be tricky for older people to manage to carry things eg cup of tea with them and open a door
 
 * Helping doctors take measurements of patients without going near them. (For covid-19 for example)
 
-* Dog walking robot
-
 * Farming related robot
-
-* Animal assistive robot
 
 * Door opening 
   * Detect the type of handle, twist vs lever vs button etc.
-
-* Robot which does dishes (Can analyse shape of object to clean optimally) or dries dishes 
-  * Could also detect which cleaning tool (sponge vs scourer vs cloth etc.) is best
-  * Could detect when cleaning tool is too dirty/misshapen and needs to be replaced.
   
 * Medical robot
   * Could move from bed to bed
@@ -45,6 +33,12 @@
   * Sanitization issues, would have to self-sanitize
   * Will we be able to have access to this medical equipment (oximiter etc...)
   * Could measure Heart Rate and Temperature
+  
+* Train janitor
+  * Moves along the train
+  * Detects empty tables/ dirty tables
+  * disinfects the tables
+  * Could be empty train or train with passengers
   
 * Fetching robot
   * Map/ layout of house somehow encoded
