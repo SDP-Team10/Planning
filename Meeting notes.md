@@ -1,6 +1,7 @@
 Client Meeting 11:00 13.01
 
 James said all 3 ideas were possible
+
 Below is a summary of the points that he made 
 
 * Retrieval robot
@@ -24,7 +25,9 @@ Below is a summary of the points that he made
   * How would it affect the world
   
   Post Client Meeting 11:20 13.01
+  
   Decided to move forward with the train robot idea 
+  
   Decided meeting time of 12-1 on 14/01 (with mentor attending)
   
   
