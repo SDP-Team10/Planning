@@ -25,10 +25,14 @@ employees and customers.
 
 As it stands trains must be stopped for a significant amount of time 
 between journeys to properly disinfect, costing money, time and risking cleaners being exposed 
-to (viral infections) for example Northern trains employs 430 staff to clean the trains each day. 
-They carry out 510 hours of cleaning per night costing upwards of £5,000 (/week / year)?   
+to viral infections. For example Northern trains employs 430 staff to clean the trains each day. 
+They carry out 510 hours of cleaning per night costing upwards of £5,000 per night.   
 
-Our robot will be able to clean while the train is moving and while passengers are on board.
-This means trains will be able to operate more frequently and be more cost and time efficient 
-while still maintaining high standards of hygiene and service. 
+Our robot will clear and disinfect hundreds of empty tables as well as disinfecting thousands of buttons while the train is 
+moving and while passengers are on board. This means trains will be able to operate more 
+frequently allowing cost and time efficiency while maintaining high standards of hygiene and service.
+
+The robot will intelligently detect whether or not a table is occupied before making the decision to clean or move on.
+We also hope to make the robot capable of moving out of the way of passengers as they move along the aisle to
+reduce disruption to the public. 
 
