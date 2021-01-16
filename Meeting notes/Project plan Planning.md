@@ -1,5 +1,6 @@
 **Milestones & Task decomposition**
 
+
 **STEP 1** Move along aisle
 
 Stability
@@ -9,6 +10,7 @@ Recognize obstacles (end of carriages) using Lidar
 Move in straight line
 
 (IR sensors)
+
 
 **STEP 2**
 1. First assume table is free of rubbish >> sanitize
@@ -21,6 +23,7 @@ Spray disinfectant
 
 Determine pressure to apply to swipe the table
 
+
 2. Then clean tables of rubbish
 
 Detects rubbish
@@ -31,9 +34,11 @@ Arm swipes
 
 End of warm with mop cleans
 
+
 **STEP 3** Identifying unoccupied tables
 
 Camera or IR sensor to check the entire length of the chair to determine distance to nearest object (compare against length to wall)
+
 
 **STEP 4** Detect people moving down aisle & move out of the way
 
@@ -55,6 +60,7 @@ Rotate to clean circle
 Have 2 functions corresponding to 2 IF statements (detect button/table?)
 
 Exert little more pressure to open buttons (if necessary)
+
 
 **STEP 6** Cross carriages
 
