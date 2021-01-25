@@ -12,7 +12,7 @@
 ## Hardware
 
 - **Any hardware component already selected/included in model**
-- Placement of sensors
+- Placement of sensors and actuators
 - **Design choices (why?)**
 - Picture of robot model
 
